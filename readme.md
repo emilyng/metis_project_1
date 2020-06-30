@@ -1,4 +1,4 @@
-```python
+
 ## Project 1: Exploratory Data Analysis (EDA)
 
 ### Back Story
@@ -50,4 +50,3 @@ An email from a potential client:
 
 
 We are very excited to see what you will learn and do for Project 1!
-```
